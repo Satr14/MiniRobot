@@ -1,12 +1,9 @@
 Tugas Pemrogaman Sistem Mekatronik
 
- ======================================
- ===           Mini Robot           ===
- ======================================
- 
- ================================================================
- ===               Arduino Nano Wall Follower                 ===
- ================================================================
+-> MINI ROBOT <-
+
+-> Arduino Nano Wall Follower <-
+
 
 Not Use : RST,D8,D9,REF
 
@@ -43,9 +40,8 @@ Ultrasonic Depan
 	Trig : D5
 	Echo : D4
 
- ================================================================
- ===               Arduino Nano Line Follower                 ===
- ================================================================
+-> Arduino Nano Line Follower <-
+
 Not Use : RST,REF,A7
 
 LCD I2C
